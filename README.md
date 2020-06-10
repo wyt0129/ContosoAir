@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/chingshinghk/ConotosoAir/_apis/build/status/wyt0129.ContosoAir?branchName=master)](https://dev.azure.com/chingshinghk/ConotosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
